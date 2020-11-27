@@ -4,6 +4,7 @@ Rencana lain si pandu
   - Projek Web
     - CRUD
   - Projek Software Development
+  - Projek Android Development
 - Mencoba freelancer.com
   - Apply job
 - Buat PI duluan
