@@ -2,7 +2,8 @@ Rencana lain si pandu
 
 - Buat projek besar
   - Projek Web
+    - CRUD
   - Projek Software Development
+    - .NET
 - Mencoba freelancer.com
 - Buat PI duluan
-- Mencari magang
