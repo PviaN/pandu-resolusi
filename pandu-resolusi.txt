@@ -3,3 +3,5 @@ Pandu Resolusi
 - Jauhkan sikap menganggap remeh terhadap sesuatu
 - Pergunakan waktu sebaik-baiknya
 - Mendalami beberapa bahasa pemrograman sesuai dengan roadmap yang dipilih
+- Membuat projek simpel dengan lancar tanpa hambatan
+- Mempelajari git dan github
