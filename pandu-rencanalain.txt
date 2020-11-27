@@ -2,7 +2,10 @@ Rencana lain si pandu
 
 - Buat projek besar
   - Projek Web
+    - CRUD
   - Projek Software Development
 - Mencoba freelancer.com
+  - Apply job
 - Buat PI duluan
 - Mencari magang
+- Tinggal diluar rumah
